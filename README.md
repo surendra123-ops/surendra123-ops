@@ -1,84 +1,91 @@
 # 👋 Hi, I'm Surendra Yenika  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
+</p>
+
 🚀 **MERN Full Stack Developer | REST APIs | AWS Cloud | DevOps | Docker | Kubernetes | Linux | SQL | C | C++ | Python**
-
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
 
 ---
 
 ### 🧠 About Me
 - 💻 Passionate about building scalable **Full-Stack Web Applications** using the **MERN Stack**.  
 - ☁️ Exploring **Cloud Computing (AWS)** and **DevOps** with tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**.  
-- 🤖 Love integrating **AI** and automation into modern web solutions.  
+- 🤖 Love integrating **AI, VibeCoding, and automation** into modern web solutions using tools like **CrossAI and MockKon** for efficiency.  
 - 🌱 Continuously learning new technologies, improving code quality, and following clean architecture principles.  
-- ⚡ Goal: To become a **versatile Full-Stack + Cloud Engineer** capable of delivering end-to-end modern applications.
-- 📌 Currently open to **internships** and **entry-level job opportunities** 
+- ⚡ Goal: To become a **versatile Full-Stack + Cloud Engineer** capable of delivering end-to-end modern applications.  
+- 📌 Currently open to **internships** and **entry-level opportunities**  
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,aws,docker,kubernetes,linux,git,github,html,css,js,ts,python,c,cpp,mysql,vscode,postman" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" title="React" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60" title="Next.js" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" title="Express" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60" title="MongoDB" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="60" height="60" title="AWS" alt="AWS"/>
 </p>
 
-**Frontend:** React.js, Next.js, HTML, CSS, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js, REST APIs  
-**Database:** MongoDB, MySQL  
-**DevOps & Cloud:** AWS, Docker, Kubernetes, Linux  
-**Programming Languages:** JavaScript, Python, C, C++  
-**Version Control & Tools:** Git, GitHub, VS Code, Postman  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" title="Docker" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" title="Kubernetes" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" title="Linux" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" title="Git" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60" title="GitHub" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" title="TypeScript" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" title="Python" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" title="C" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" title="C++" alt="C++"/>
+</p>
+
 
 ---
 
 ### 🚀 Featured Projects  
 
-#### 🧠 [AI-Powered Coursebook Revision Web App](https://github.com/surendra123-ops/AI-Powered-Coursebook-Revision-Web-App)
-AI-driven platform to generate, revise, and learn from course materials efficiently. Built using **React**, **Node.js**, and **OpenAI APIs**.
-
-#### 🎧 [Spotify Unclaimed Song Finder](https://github.com/surendra123-ops/Spotify-Unclaimed-Song-Finder)
-Helps users discover **underrated or unclaimed songs** using the Spotify API and intelligent filtering logic.
-
-#### 💼 [E-Invoicing Readiness Gap Analyzer](https://github.com/surendra123-ops/E-Invoicing-Readiness-Gap-Analyzer)
-Analyzes business readiness for e-invoicing compliance — focused on automation, accuracy, and user insight.
-
-#### 🗂️ [Real-Time Collaborative To-Do Board](https://github.com/surendra123-ops/Real-Time-Collaborative-To-Do-Board)
-A real-time team collaboration app built with **Socket.io**, **Express**, and **React** for shared task management.
-
-#### 💬 [Realtime Chat App Using AI](https://github.com/surendra123-ops/RealTimeChatAppUsingAI)
-Real-time chat application enhanced with **AI-powered responses** and live synchronization features.
-
-#### 📝 [Notes App](https://github.com/surendra123-ops/notes-app)
-A simple and efficient **CRUD-based Notes App** built with **React, Node.js, and MongoDB**.
-
----
-
-### 🧑‍💻 More Projects
-🔗 Check out more of my repositories here → [**GitHub Projects**](https://github.com/surendra123-ops?tab=repositories)
+<p align="center">
+  <a href="https://github.com/surendra123-ops/AI-Powered-Coursebook-Revision-Web-App">🧠 AI-Powered Coursebook Revision Web App</a>  
+  <br>
+  <a href="https://github.com/surendra123-ops/Spotify-Unclaimed-Song-Finder">🎧 Spotify Unclaimed Song Finder</a>  
+  <br>
+  <a href="https://github.com/surendra123-ops/E-Invoicing-Readiness-Gap-Analyzer">💼 E-Invoicing Readiness Gap Analyzer</a>  
+  <br>
+  <a href="https://github.com/surendra123-ops/Real-Time-Collaborative-To-Do-Board">🗂️ Real-Time Collaborative To-Do Board</a>  
+  <br>
+  <a href="https://github.com/surendra123-ops/RealTimeChatAppUsingAI">💬 Realtime Chat App Using AI</a>  
+  <br>
+  <a href="https://github.com/surendra123-ops/notes-app">📝 Notes App</a>  
+</p>
 
 ---
 
 ### 🌐 Connect with Me  
 
-<p align="left">
-  <a href="https://linkedin.com/in/surendrayenika" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="mailto:surendrayenika@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/></a>
-  <a href="https://github.com/surendra123-ops" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/surendrayenika" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:surendrayenika@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/surendra123-ops" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats (Commits Only)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surendra123-ops&show_icons=true&theme=react&count_private=true&hide=stars" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra123-ops&layout=compact&theme=react&hide=stars" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=surendra123-ops&show_icons=true&theme=react&count_private=true&hide=stars,issues&hide_title=true&show_icons=true&include_all_commits=true" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendra123-ops&theme=react" height="160px"/>
-</p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surendra123-ops&show_icons=true&theme=react&count_private=true&hide=stars" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra123-ops&layout=compact&theme=react&hide=stars" height="160px"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendra123-ops&theme=react" height="160px"/> </p>
 
 ---
 
