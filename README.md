@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" title="Express" alt="Express"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" height="60" title="MongoDB" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="60" height="60" title="AWS" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="60" height="60" title="AWS" alt="AWS"/>
 </p>
 
 <p align="center">
@@ -78,14 +78,10 @@
 
 ---
 
-### 📊 GitHub Stats (Commits Only)  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surendra123-ops&show_icons=true&theme=react&count_private=true&hide=stars,issues&hide_title=true&show_icons=true&include_all_commits=true" height="180px"/>
-</p>
+### 📊 GitHub Stats   
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surendra123-ops&show_icons=true&theme=react&count_private=true&hide=stars" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra123-ops&layout=compact&theme=react&hide=stars" height="160px"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendra123-ops&theme=react" height="160px"/> </p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra123-ops&layout=compact&theme=react&hide=stars" height="160px"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=surendra123-ops&theme=react" height="160px"/> </p>
 
 ---
 
